@@ -1,11 +1,25 @@
-# Hi, I'm Enrique 🤠.
+### Howdy, I'm Enrique 🤠.
 
-- I'm currently working in Web and Blockchain Development 💻.
-- I'm looking for an internship 🔍.
-- I almost finished college 📕.
-- I like Javascript and Java 👍🏻.
-- I'm learning TypeScript 🤓.
-- I'm a Ben Awad fan 😩
+## Welcome to my Github Profile
+I am a Software Enginner based in Tampico, México.
+My favorite programing language is Javascript and I have been writting full stack web applications for the last two years.
+
+This is my tecstack 👇
+- Javascript
+- Typescript
+- React
+- Svelte
+- MySQL
+- MongoDB
+- GraphQL
+
+I don't write much HTML/CSS now because all the effort is done by inhouse built components in my formal job.
+However, when I do want to style my projects, I don't use plain CSS too much 😂.
+I'm in love with Tailwind.
+
+I'm interested on collaborating in small open source projects in my free time and continue growing this personal github account.
+
+
 
 ## Tecnhologies
 <p align="center">
@@ -18,16 +32,4 @@
 <img src="https://w7.pngwing.com/pngs/704/597/png-transparent-computer-icons-command-line-interface-linux-system-console-command-line-icon-miscellaneous-text-rectangle-thumbnail.png" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.pixabay.com/photo/2018/05/08/21/29/windows-3384024_960_720.png" height="40" style="vertical-align:top; margin:4px">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6wxqfCtjc5eOKPN8hfbQmdVuA7mB8phMAmA&usqp=CAU" height="40" style="vertical-align:top; margin:4px">
-
-
-## :trophy: My Github Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soutkike&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-  
-## My Top Langs
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soutkike&theme=tokyonight&layout=compact)
-
-</p>
-
 
