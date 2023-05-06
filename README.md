@@ -13,9 +13,8 @@ This is my tecstack 👇
 - MongoDB
 - GraphQL
 
-I don't write much HTML/CSS now because all the effort is done by inhouse built components in my formal job.
-However, when I do want to style my projects, I don't use plain CSS too much 😂.
-I'm in love with Tailwind.
+
+I'm in love with Tailwind CSS.
 
 I'm interested on collaborating in small open source projects in my free time and continue growing this personal github account.
 
